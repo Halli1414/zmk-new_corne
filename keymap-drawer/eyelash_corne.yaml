@@ -83,7 +83,7 @@ layers:
   - KP 1
   - KP 2
   - KP 3
-  - RGB EFF
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '7', s: '&'}
