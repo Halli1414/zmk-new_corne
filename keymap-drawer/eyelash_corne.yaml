@@ -57,27 +57,27 @@ layers:
   - KP 9
   - {t: '5', s: '%'}
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
-  - {t: '6', s: ^}
-  - {t: '7', s: '&'}
-  - {t: '8', s: '*'}
+  - '1'
+  - '2'
+  - '3'
   - {t: '9', s: (}
-  - {t: '0', s: )}
+  - {t: '`', s: '~'}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:transfer$$', type: trans}
   - KP NUM
   - KP 4
   - KP 5
   - KP 6
-  - {h: '4', s: '$$mdi:bluetooth-connect$$'}
+  - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
-  - $$mdi:arrow-right-bold$$
-  - HOME
+  - '4'
+  - {t: '5', s: '%'}
+  - {t: '6', s: ^}
+  - {t: '0', s: )}
   - PG UP
+  - PG DN
   - RGB OFF
   - RGB ON
   - KP 1
@@ -86,12 +86,12 @@ layers:
   - RGB EFF
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - RGB EFR
-  - RGB SPI
-  - RGB BRI
+  - {t: '7', s: '&'}
+  - {t: '8', s: '*'}
+  - {t: '9', s: (}
   - RGB BRD
+  - HOME
   - END
-  - PG DN
   - KP 0
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
