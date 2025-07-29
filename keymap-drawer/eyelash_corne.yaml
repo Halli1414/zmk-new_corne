@@ -43,7 +43,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - $$mdi:backspace-reverse-outline$$
-  - LGUI
+  - $$mdi:apple-keyboard-option$$
   - NUMBER
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', h: Fn}
@@ -84,7 +84,7 @@ layers:
   - KP 2
   - KP 3
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:volume-off$$
+  - RGB TOG
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '7', s: '&'}
   - {t: '8', s: '*'}
