@@ -69,9 +69,9 @@ layers:
   - KP 5
   - KP 6
   - $$mdi:apple-keyboard-shift$$
-  - PREV
+  - $$mdi:skip-previous$$
   - $$mdi:mouse-left-click-outline$$
-  - NEXT
+  - $$mdi:skip-next$$
   - '4'
   - {t: '5', s: '%'}
   - {t: '6', s: ^}
